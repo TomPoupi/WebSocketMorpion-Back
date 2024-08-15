@@ -1,7 +1,7 @@
 # WebSocketMorpion
 
 ## Desc générale
-Veuillez suivre ce liens pour avoir une description du projet ainsi que des conseils d'installation (WebSocketMorpion-Front)[https://github.com/TomPoupi/WebSocketMorpion-Front]
+Veuillez suivre ce liens pour avoir une description du projet ainsi que des conseils d'installation [WebSocketMorpion-Front](https://github.com/TomPoupi/WebSocketMorpion-Front)
 
 ## installation
 Vous pouvez modifier l'addresse IP et le port du server dans le fichier ./server.js ligne 19 et 20.

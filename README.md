@@ -12,4 +12,4 @@ Vous pouvez modifier l'addresse IP et le port du server dans le fichier ./server
 npm install
 node server.js
  ```
-pour lancer le server back
+pour lancer le back
